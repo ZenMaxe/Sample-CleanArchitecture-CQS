@@ -1,11 +1,11 @@
-# Sample-CleanArchitecture-CQRS
-This project is a .NET 8.0 implementation of Clean Architecture, CQRS pattern, Fluent Validation and Identity for role and user management. It utilizes Sqlite, Entity Framework, Mapster, MediatR, and JWT for authentication and authorization in an ASP.NET Core Web API.
+# Sample-CleanArchitecture-CQS
+This project is a .NET 8.0 implementation of Clean Architecture, CQS pattern, Fluent Validation and Identity for role and user management. It utilizes Sqlite, Entity Framework, Mapster, MediatR, and JWT for authentication and authorization in an ASP.NET Core Web API.
 
 ## Technologies Used
 - ASP.NET Core 8.0
 - Mapster
 - Clean Architecture
-- CQRS Pattern
+- CQS Pattern
 - Identity (Role and User Management)
 - Sqlite
 - Entity Framework
