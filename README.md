@@ -1,3 +1,11 @@
+# ⚠️ WARNING: Old Codebase – New Template Coming Soon
+
+> 🚨 This project is outdated and does **not** represent best practices or production-ready structure.  
+> A new, cleaner and more robust version of this template is in development and will be released soon.  
+> Use this code for educational/reference purposes only.
+
+---
+
 # Sample-CleanArchitecture-CQS
 This project is a .NET 8.0 implementation of Clean Architecture, CQS pattern, Fluent Validation and Identity for role and user management. It utilizes Sqlite, Entity Framework, Mapster, MediatR, and JWT for authentication and authorization in an ASP.NET Core Web API.
 
