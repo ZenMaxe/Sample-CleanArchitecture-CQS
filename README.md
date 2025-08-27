@@ -1,8 +1,7 @@
-# ⚠️ WARNING: Old Codebase – New Template Coming Soon
+# ⚠️ ARCHIVED – NOT REPRESENTATIVE OF MY CURRENT CODE STANDARDS
 
-> 🚨 This project is outdated and does **not** represent best practices or production-ready structure.  
-> A new, cleaner and more robust version of this template is in development and will be released soon.  
-> Use this code for educational/reference purposes only.
+> 📌 This project is an old experiment and **does not reflect my current coding style or architectural thinking**.  
+> A cleaner, more modular template may be released in the future — but for now, this code is **not actively maintained or recommended** for reference.
 
 ---
 
